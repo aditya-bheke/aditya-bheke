@@ -8,7 +8,7 @@ My current focus is on combining strong software engineering fundamentals with
 **LLMs, RAG, semantic search, and modern full-stack architectures**.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/-aditya-bheke/">
+  <a href="www.linkedin.com/in/-aditya-bheke-">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/aditya_bheke/">
