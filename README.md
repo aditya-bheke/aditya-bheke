@@ -8,13 +8,13 @@ My current focus is on combining strong software engineering fundamentals with
 **LLMs, RAG, semantic search, and modern full-stack architectures**.
 
 <p align="left">
-  <a href="www.linkedin.com/in/-aditya-bheke-">
+  <a href="https://www.linkedin.com/in/-aditya-bheke-/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/aditya_bheke/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/adityabh9qud">
+  <a href="https://www.geeksforgeeks.org/profile/adityabh9qud/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="mailto:adityabheke2005@gmail.com">
@@ -56,7 +56,7 @@ My current focus is on combining strong software engineering fundamentals with
 
 ### AI & GenAI
 
-![Python](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6B46C1?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-3776AB?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=flat-square)
