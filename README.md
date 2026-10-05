@@ -159,7 +159,7 @@ news while using AI for article summarization.
 
 Platforms:
 
-`LeetCode` · `CodeChef` · `Codeforces`
+`LeetCode` · `CodeChef` · `GeeksforGeeks`
 
 ### Achievements
 
